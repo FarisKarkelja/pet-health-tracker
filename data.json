@@ -1,0 +1,17 @@
+[
+    {
+        "username": "fare",
+        "password": "123",
+        "pets": [
+            {
+                "name": "Rex",
+                "breed": "Dog",
+                "age": "4",
+                "weight": "12",
+                "health_records": [],
+                "vaccinations": [],
+                "appointments": []
+            }
+        ]
+    }
+]
